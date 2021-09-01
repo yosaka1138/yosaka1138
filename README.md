@@ -1,5 +1,4 @@
 [![yosaka1138's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosaka1138&theme=vue-dark&show_icons=true)](https://github.com/yosaka1138/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosaka1138&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/yosaka1138/github-readme-stats)
 
 <!---

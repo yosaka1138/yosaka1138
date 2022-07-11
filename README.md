@@ -1,4 +1,4 @@
-[![yosakax's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosaka1138&theme=vue-dark&show_icons=true)](https://github.com/yosakax/github-readme-stats)
+[![yosakax's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosakax&theme=vue-dark&show_icons=true)](https://github.com/yosakax/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosakax&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/yosakax/github-readme-stats)
 
 <!---
